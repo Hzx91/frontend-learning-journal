@@ -1,5 +1,5 @@
 # frontend-learning-journal
-# 黄梓星 - 前端学习之旅
+# Hzx - 前端学习之旅
 
 ## 🎯 目标
 2026年成为前端工程师
